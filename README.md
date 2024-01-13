@@ -10,7 +10,7 @@ I am a software developer with expertise in MERN Stack. My journey in the world 
 
 ## Skills
 
-- Programming Languages: [List of languages]
+- Programming Languages: HTML CSS JS  
 - Web Technologies: [List of web technologies]
 - Frameworks: [List of frameworks]
 - Database Management: [List of databases]
